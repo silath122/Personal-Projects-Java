@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Shipment
+comment0.text=\r\n\ Shipment\ class\ for\ Project5\r\n\r\n\ @author\ Siah\r\n\ @version\ 1.0\ 11/04/22\r\n
+comment1.params=
+comment1.target=Shipment()
+comment1.text=\r\n\ The\ standard\ constructor\r\n
+comment2.params=id\ destination\ weight\ volume
+comment2.target=Shipment(int,\ java.lang.String,\ double,\ int)
+comment2.text=\r\n\ The\ second\ constructor\r\n\ @param\ id\ the\ id\ number\ of\ the\ object\r\n\ @param\ destination\ the\ destination\ of\ the\ object\r\n\ @param\ weight\ the\ weight\ of\ the\ object\r\n\ @param\ volume\ the\ volume\ of\ the\ object\r\n
+comment3.params=
+comment3.target=java.lang.String\ getDestination()
+comment3.text=\r\n\ The\ destination\ getter\ method\r\n\ \r\n\ @return\ String\r\n
+comment4.params=
+comment4.target=double\ getWeight()
+comment4.text=\r\n\ The\ weight\ getter\ method\r\n\ \r\n\ @return\ double\r\n
+comment5.params=
+comment5.target=int\ getVolume()
+comment5.text=\r\n\ The\ volume\ getter\ method\r\n\ \r\n\ @return\ int\r\n
+comment6.params=
+comment6.target=int\ getId()
+comment6.text=\r\n\ The\ id\ getter\ method\r\n\ \r\n\ @return\ int\r\n
+numComments=7
